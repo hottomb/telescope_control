@@ -1,1 +1,1 @@
-![screenshot](/example pics/20150322T152111_2.png.png)
+![20150322T152111_2](/example pics/20150322T152111_2.png.png)
