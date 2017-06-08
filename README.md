@@ -1,1 +1,1 @@
-![screenshot](screenshot.png)
+![screenshot](https://github.com/hottomb/telescope_control/blob/master/example%20pics/20150322T152111_2.png)
